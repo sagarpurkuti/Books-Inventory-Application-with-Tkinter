@@ -7,3 +7,5 @@ database:  sqlite
 pip install pyinstaller
 
 pyinstaller --onefile --windowed BookRecordPro.py
+
+![alt text](image.png)
